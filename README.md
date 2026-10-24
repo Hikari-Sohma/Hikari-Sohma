@@ -1,61 +1,129 @@
-# Hi, I'm Hikari 👋
 
-## 🌏 Marketing Consultant × AI Collaborator
+# Hi, I'm Hikari Soma 👋
 
-I'm a bilingual marketing professional (Japanese/English) specializing in helping Japanese tech companies — especially mobile games, VR apps, and consumer apps — expand into Western markets.
+### Independent Data Scientist | Marketing Analytics Consultant | Consumer Behavior Researcher
 
-I work at the intersection of consumer behavior research, AI-powered analytics, and cross-cultural strategy.
+I'm a Japan-based independent data scientist and marketing consultant specializing in **consumer behavior, marketing analytics, and AI-driven business intelligence**.
 
----
+With a master's degree from Waseda University and experience working with companies including Sony Group, I combine academic research methods with hands-on business analytics to help organizations better understand their customers and make evidence-based decisions.
 
-## 🔧 What I Build with AI
+My work focuses on connecting **what consumers think, what they actually do, and how businesses can respond**.
 
-- Marketing Analytics Tools — RFM segmentation, customer behavior dashboards
-- Localization Frameworks — culturally-adapted go-to-market strategies for Japan → West（West → Japan）
-- AI-Assisted Workflows — automating marketing reporting and customer analysis
-
----
-
-## 💼 Background
-
-- 📊 Invited Researcher, Waseda University Sports Business Research Institute
-- 🎮 Marketing Director for Japanese mobile & VR game companies
-- 🌐 Cross-cultural consultant (Japan ↔ US/Western markets)
-- 🗣️ Interpreter for international sports ministry organizations
+🌐 **Website:** [hikari-soma.com](https://hikari-soma.com/)  
+📩 **Email:** [hikari.mktg@gmail.com](mailto:hikari.mktg@gmail.com)  
+📍 **Location:** Japan | Open to international collaboration
 
 ---
 
-## 📬 Let's Connect
+## 💡 What I Do
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hikari-sohma-narrowgate/)
-- 📝 [Portfolio](https://axross-recipe.com/users/65354)
+### 🧠 Consumer Behavior & Customer Intelligence
+- Behavioral analysis using product usage logs, purchase histories, and customer surveys
+- Customer segmentation, clustering, and co-purchase analysis
+- Consumer psychology, factor analysis, and structural equation modeling (SEM)
 
----
+### 📊 Marketing Analytics & Strategy
+- CRM strategy and data-driven customer targeting
+- Marketing effectiveness measurement and causal inference
+- Digital marketing and international market entry strategy
 
-### マーケティングコンサルタント × AI活用
-
-日本のテック企業（モバイルゲーム・VR・アプリ）の海外展開を支援するバイリンガルマーケターです。消費者行動研究・AI分析・クロスカルチャー戦略を組み合わせて、英語圏市場への参入もサポートしています。
-
----
-
-### AIと協働して作るもの
-
-- マーケティング分析ツール — RFMセグメンテーション、顧客行動ダッシュボード
-- ローカライズフレームワーク — 日本→西洋市場への文化適応型GTM戦略
-- AI活用ワークフロー — マーケティングレポートや顧客分析の自動化
+### 🤖 AI & Data Science
+- Data extraction, transformation, and analysis using Python and SQL
+- AI-assisted analytics and research workflows
+- Applying AI to business intelligence and marketing decision-making
 
 ---
 
-### 経歴・所属
+## 💼 Professional Experience
 
-- 📊 早稲田大学スポーツビジネス研究所 招聘研究員
-- 🎮 日本モバイルゲーム・VR企業のマーケティングディレクター
-- 🌐 日米クロスカルチャーコンサルタント
-- 🗣️ 通訳者
+### Sony Group Corporation
+**Data Scientist | Independent Contractor**  
+*Apr 2026 – Present*
+
+- Analyze product usage, device settings, and purchase data using SQL, Databricks, and Python.
+- Engineer behavioral features to improve customer segmentation and marketing decisions.
+- Apply factor analysis and statistical modeling to investigate consumer motivations.
+- Integrate survey responses with behavioral data to identify previously unseen customer profiles.
+
+### Independent Marketing & Data Science Consultant
+**Self-Employed | Apr 2023 – Present**
+
+Collaborate with organizations across consumer electronics, e-commerce, gaming, and digital products.
+
+**Selected engagements:**
+
+**KURAND | E-commerce & CRM Analytics**
+- Conducted customer clustering and co-purchase analysis.
+- Developed customer segments and personas to support CRM strategy.
+- Helped strengthen the internal marketing team's analytical capabilities.
+
+**Sola of America | U.S. Market Entry**
+- Supported U.S. market entry for mobile applications and VR gaming products.
+- Coordinated approximately 20 U.S. content creators.
+- Generated 30,000+ organic video views without paid advertising.
+- Managed digital advertising and user acquisition initiatives.
+
+**Axross Recipe (SoftBank Group) | Data Science & AI Content**
+- Authored practical educational content on machine learning and applied data science.
+- Developed tutorials on network analysis using NetworkX and Louvain community detection.
+- Created hands-on learning materials incorporating GitHub Copilot.
+
+### Waseda University
+**Adjunct Researcher | Research Institute for Sport Business**
+
+- Research consumer psychology and behavior in professional sports.
+- Focus on quantitative analysis and practical business applications.
 
 ---
 
-### お問い合わせ
+## 🛠 Technical Skills
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hikari-sohma-narrowgate/)
-- 📝 [Portfolio](https://axross-recipe.com/users/65354)
+| Category | Tools & Methods |
+|---|---|
+| Programming & Data | Python, SQL, pandas, NumPy |
+| Statistical Analysis | SPSS, statsmodels, Factor Analysis, SEM, Causal Inference |
+| Machine Learning | scikit-learn, Clustering, Network Analysis |
+| Data Platforms | Databricks, BigQuery, Excel |
+| AI & Development | GitHub Copilot, LLM-assisted Analysis, VS Code, Jupyter Notebook |
+| Marketing | Consumer Research, CRM, Segmentation, Google Ads |
+
+---
+
+## 🎓 Education
+
+### Waseda University
+**Master of Sport Sciences**  
+Graduate School of Sport Sciences | 2023
+
+**Research Focus:**
+- Consumer Behavior
+- Consumer Psychology
+- Quantitative Research Methods
+- Sports Marketing
+
+---
+
+## 🚀 Current Focus
+
+I'm particularly interested in building AI-powered solutions that combine real-world consumer data with advanced analytical methods.
+
+**Areas I'm exploring:**
+
+- AI-powered consumer intelligence and market research
+- Causal inference for marketing effectiveness
+- Automated marketing analytics workflows
+- Cross-border business opportunities between Japan and the United States
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to international consulting projects, research collaborations, and opportunities at the intersection of **data science, marketing, and artificial intelligence**.
+
+🌐 **Website:** [https://hikari-soma.com/](https://hikari-soma.com/)
+
+📩 **Email:** [hikari.mktg@gmail.com](mailto:hikari.mktg@gmail.com)
+
+---
+
+*Turning consumer behavior data into actionable business intelligence.*
